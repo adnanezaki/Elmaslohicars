@@ -1,0 +1,49 @@
+{
+  "HomePage": {
+    "heroTitle": "Alquiler de Coches",
+    "heroLocation": "Mohammedia y Casablanca",
+    "heroSubtitle": "Descubre nuestra selección de vehículos premium con Maslohi Cars. Tarifas transparentes, servicio de calidad y reserva instantánea a través de WhatsApp.",
+    "ourFleet": "Nuestra Flota",
+    "contactAgency": "Contacto y Agencia",
+    "paymentConditions": "Pago y Condiciones",
+    "openingHours": "Horario de Apertura",
+    "badge": "Maslohi Cars Mohammedia",
+    "contact": "Contacto",
+    "fleetSubtitle": "Una cuidada selección de vehículos mantenidos para su confort y seguridad al mejor precio.",
+    "premiumQuality": "Calidad Premium",
+    "service247": "Servicio 24/7"
+  },
+  "CarCard": {
+    "perDay": "día",
+    "day": "día",
+    "days": "días",
+    "MAD": "MAD",
+    "transmission": "Transmisión",
+    "fuel": "Combustible",
+    "seats": "Plazas",
+    "ac": "AC",
+    "startDate": "Fecha de inicio",
+    "endDate": "Fecha de regreso",
+    "rentDuration": "Duración (días)",
+    "totalEstimated": "Total estimado",
+    "bookNow": "Reservar Ahora",
+    "features": "Características",
+    "whatsappMessage": "Hola Maslohi Cars, me gustaría alquilar el {name} del {start} al {end} ({days} días) en Mohammedia. Precio estimado: {total} MAD. ¿Está disponible?"
+  },
+  "Footer": {
+    "brandDescription": "Su socio de confianza para el alquiler de coches premium en Mohammedia.",
+    "assistance24h": "Disponible 24/7 para asistencia",
+    "airportDelivery": "Entrega en el aeropuerto CMN / RBA disponible",
+    "addressTitle": "Dirección de la Agencia",
+    "addressLine1": "Residencia Ibnou Yassine",
+    "addressLine2": "Esquina Kadi Tazi y Calle Ibnou Yassine",
+    "addressCity": "Mohammedia 28800",
+    "googlePlusCode": "Código Plus: MJQ4+GM",
+    "openingHours": "08:00 - 20:00 (Lun - Dom)",
+    "rights": "Todos los derechos reservados."
+  },
+  "Metadata": {
+    "title": "Maslohi Cars - Alquiler de coches en Mohammedia y Casablanca",
+    "description": "Alquiler de coches premium en Mohammedia. Mejores tarifas, servicio 24/7 y reserva rápida por WhatsApp."
+  }
+}

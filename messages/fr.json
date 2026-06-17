@@ -1,0 +1,49 @@
+{
+  "HomePage": {
+    "heroTitle": "Location de voitures",
+    "heroLocation": "Mohammedia & Casablanca",
+    "heroSubtitle": "Découvrez notre sélection de véhicules premium avec Maslohi Cars. Tarifs transparents, service de qualité et réservation instantanée via WhatsApp.",
+    "ourFleet": "Notre Flotte",
+    "contactAgency": "Contact & Agence",
+    "paymentConditions": "Paiement & Conditions",
+    "openingHours": "Horaires d'ouverture",
+    "badge": "Maslohi Cars Mohammedia",
+    "contact": "Contact",
+    "fleetSubtitle": "Une sélection rigoureuse de véhicules entretenus pour votre confort et votre sécurité au meilleur prix.",
+    "premiumQuality": "Qualité Premium",
+    "service247": "Service 24/7"
+  },
+  "CarCard": {
+    "perDay": "jour",
+    "day": "jour",
+    "days": "jours",
+    "MAD": "MAD",
+    "transmission": "Transmission",
+    "fuel": "Carburant",
+    "seats": "Sièges",
+    "ac": "Clim",
+    "startDate": "Date de départ",
+    "endDate": "Date de retour",
+    "rentDuration": "Durée (jours)",
+    "totalEstimated": "Total estimé",
+    "bookNow": "Réserver",
+    "features": "Caractéristiques",
+    "whatsappMessage": "Salam Maslohi Cars, je souhaite louer la {name} du {start} au {end} ({days} jours) à Mohammedia. Prix estimé : {total} MAD. Est-elle disponible ?"
+  },
+  "Footer": {
+    "brandDescription": "Votre partenaire de confiance pour la location de véhicules premium à Mohammedia.",
+    "assistance24h": "Disponible 24h/24 pour l'assistance",
+    "airportDelivery": "Livraison Aéroport CMN / RBA possible",
+    "addressTitle": "Adresse de l'agence",
+    "addressLine1": "Résidence Ibnou Yassine",
+    "addressLine2": "Angle Kadi Tazi et Rue Ibnou Yassine",
+    "addressCity": "Mohammedia 28800",
+    "googlePlusCode": "Code Plus: MJQ4+GM",
+    "openingHours": "08:00 - 20:00 (Lun - Dim)",
+    "rights": "Tous droits réservés."
+  },
+  "Metadata": {
+    "title": "Maslohi Cars - Location de voitures à Mohammedia & Casablanca",
+    "description": "Location de voitures premium à Mohammedia. Meilleurs tarifs, service 24/7 et réservation rapide via WhatsApp."
+  }
+}

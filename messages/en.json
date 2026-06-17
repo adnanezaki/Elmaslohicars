@@ -1,0 +1,49 @@
+{
+  "HomePage": {
+    "heroTitle": "Car Rental",
+    "heroLocation": "Mohammedia & Casablanca",
+    "heroSubtitle": "Discover our selection of premium vehicles with Maslohi Cars. Transparent rates, quality service, and instant booking via WhatsApp.",
+    "ourFleet": "Our Fleet",
+    "contactAgency": "Contact & Agency",
+    "paymentConditions": "Payment & Conditions",
+    "openingHours": "Opening Hours",
+    "badge": "Maslohi Cars Mohammedia",
+    "contact": "Contact",
+    "fleetSubtitle": "A careful selection of maintained vehicles for your comfort and safety at the best price.",
+    "premiumQuality": "Premium Quality",
+    "service247": "24/7 Service"
+  },
+  "CarCard": {
+    "perDay": "day",
+    "day": "day",
+    "days": "days",
+    "MAD": "MAD",
+    "transmission": "Transmission",
+    "fuel": "Fuel",
+    "seats": "Seats",
+    "ac": "AC",
+    "startDate": "Start Date",
+    "endDate": "Return Date",
+    "rentDuration": "Duration (days)",
+    "totalEstimated": "Total estimated",
+    "bookNow": "Book Now",
+    "features": "Features",
+    "whatsappMessage": "Salam Maslohi Cars, I would like to rent the {name} from {start} to {end} ({days} days) in Mohammedia. Estimated price: {total} MAD. Is it available?"
+  },
+  "Footer": {
+    "brandDescription": "Your trusted partner for premium car rental in Mohammedia.",
+    "assistance24h": "Available 24/7 for assistance",
+    "airportDelivery": "CMN / RBA Airport delivery possible",
+    "addressTitle": "Agency Address",
+    "addressLine1": "Ibnou Yassine Residence",
+    "addressLine2": "Angle Kadi Tazi and Ibnou Yassine Street",
+    "addressCity": "Mohammedia 28800",
+    "googlePlusCode": "Plus Code: MJQ4+GM",
+    "openingHours": "08:00 - 20:00 (Mon - Sun)",
+    "rights": "All rights reserved."
+  },
+  "Metadata": {
+    "title": "Maslohi Cars - Car Rental in Mohammedia & Casablanca",
+    "description": "Premium car rental in Mohammedia. Best rates, 24/7 service, and quick booking via WhatsApp."
+  }
+}
