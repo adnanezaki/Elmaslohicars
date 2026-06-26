@@ -12,7 +12,7 @@ export default function Footer() {
     <footer className="bg-slate-50 border-t border-slate-200 pt-24 pb-12 px-6 md:px-12 lg:px-24">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-16 mb-24">
-          
+
           {/* Brand Info */}
           <div className="space-y-8">
             <h3 className="text-3xl font-black uppercase tracking-tighter text-[#0A142F] italic">Maslohi Cars</h3>
@@ -81,8 +81,8 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} Maslohi Cars. {t('rights')}
           </p>
           <div className="flex gap-8 grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-500">
-            <Image src="/images/visa.png" alt="Visa" width={40} height={25} className="h-4 w-auto object-contain" onError={(e) => (e.currentTarget.style.display = 'none')} />
-            <Image src="/images/mastercard.png" alt="Mastercard" width={40} height={25} className="h-4 w-auto object-contain" onError={(e) => (e.currentTarget.style.display = 'none')} />
+            <img src="/images/visa.png" alt="Visa" width={40} height={25} className="h-4 w-auto object-contain" onError={(e) => (e.currentTarget.style.display = 'none')} />
+            <img src="/images/mastercard.png" alt="Mastercard" width={40} height={25} className="h-4 w-auto object-contain" onError={(e) => (e.currentTarget.style.display = 'none')} />
           </div>
         </div>
       </div>

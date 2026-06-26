@@ -11,7 +11,10 @@
     "contact": "Contacto",
     "fleetSubtitle": "Una cuidada selección de vehículos mantenidos para su confort y seguridad al mejor precio.",
     "premiumQuality": "Calidad Premium",
-    "service247": "Servicio 24/7"
+    "service247": "Servicio 24/7",
+    "instagramTitle": "Presentación de Maslohi Cars",
+    "instagramSubtitle": "Descubre nuestra agencia, nuestros vehículos y nuestros servicios en video.",
+    "followInstagram": "Síguenos en Instagram"
   },
   "CarCard": {
     "perDay": "día",
@@ -24,6 +27,8 @@
     "ac": "AC",
     "startDate": "Fecha de inicio",
     "endDate": "Fecha de regreso",
+    "selectDepart": "Seleccione la fecha de salida",
+    "selectReturn": "Seleccione la fecha de regreso",
     "rentDuration": "Duración (días)",
     "totalEstimated": "Total estimado",
     "bookNow": "Reservar Ahora",
@@ -44,6 +49,11 @@
   },
   "Metadata": {
     "title": "Maslohi Cars - Alquiler de coches en Mohammedia y Casablanca",
-    "description": "Alquiler de coches premium en Mohammedia. Mejores tarifas, servicio 24/7 y reserva rápida por WhatsApp."
+    "description": "Alquiler de coches premium en Mohammedia. Mejores tarifas, service 24/7 y reserva rápida por WhatsApp."
+  },
+  "Header": {
+    "home": "Inicio",
+    "fleet": "Nuestra Flota",
+    "contact": "Contacto"
   }
 }
