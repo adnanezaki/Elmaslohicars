@@ -26,7 +26,7 @@ export default function Home() {
           >
             {/* Free-to-use car footage from Pexels */}
             <source
-              src="https://videos.pexels.com/video-files/3209828/3209828-uhd_2560_1440_25fps.mp4"
+              src="/images/Hero.mp4"
               type="video/mp4"
             />
           </video>
